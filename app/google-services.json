@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358084149105",
+    "project_id": "dna-payletter",
+    "storage_bucket": "dna-payletter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358084149105:android:0a66e36865e952084d80d0",
+        "android_client_info": {
+          "package_name": "com.axa.dnapayletter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnZykU9pnPbQaBVtbf5YqjNlMCYbQwHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
